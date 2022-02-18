@@ -1,0 +1,20 @@
+Predictions from different models
+
+1.Linear Regression:-
+
+  Mean: 52.15870506545322
+  Standard Deviation: 51.888495915767855
+  
+
+2.Random Forest Regressor:-
+
+  Mean: 63.566927909951936
+  Standard Deviation: 49.43063554709252
+  
+  
+3.Decision Tree Regressor:-
+
+  Mean: 91.31409288247407
+  Standard Deviation: 60.25684743032827
+
+
